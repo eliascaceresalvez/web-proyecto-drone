@@ -15,5 +15,5 @@
 
 //Opcion 3 - SmoothScroll Scrypt
 const scroll = new SmoothScroll('.navbar a[href="#"]',{
-    speed: 800
+    speed: 500
 })
